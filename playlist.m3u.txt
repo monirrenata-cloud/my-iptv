@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
+https://example.com/live/atn.m3u8
