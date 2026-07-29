@@ -3,7 +3,8 @@
 # EXPIRY: September 21, 2027, 12:00 am
 # TYPE: Single Channel Conversion
 # GENERATED: 2026-07-29
-# ==========================================
+# ===============================
+##### BANGLADESH CHANNEL #####
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/42462.png", BAN| NTV BANGLA EU
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/42462.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
@@ -313,7 +314,7 @@ https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=336f19de5e4aacae753d7524d86d1a89
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg", Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-# ===== Bangladesh News =====
+===== Bangladesh IPTV =====
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Somoy TV Sports Feed 🇧🇩 Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png", ATN News HD
@@ -376,8 +377,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225735.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225732.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225723.png", BAN|  ATN BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225723.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="", ##### WORLD CRICKET #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104683.m3u8
+##### WORLD CRICKET #####
 #EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png", CR| IPL 2026 CHANNEL 1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2047231.m3u8
 #EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png", CR| IPL 2026 CHANNEL 2
@@ -446,6 +446,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1127568
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106880.m3u8
 #EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106881.png", CRB| SPORTSMAX 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106881.m3u8
+##### INDIA EU #####
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/959.png", IN| SONY TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/959.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png", IN| ZEE TV HD
@@ -464,8 +465,10 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/946.m3u
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1458625.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458623.png", UK| SONY MAX HEVC HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1458623.m3u8
+##### INDIA ENTERTAINMENT #####
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280767.png", HINDI| STAR PLUS
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280767.m3u8
+##### INDIA MOVIE #####
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280744.png", HINDI| & PICTURES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280744.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/155997.png", HINDI| & PICTURES FHD
@@ -486,6 +489,8 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280810.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155979.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156025.png", HINDI| MN PLUS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/156025.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
+http://mxonlive.xyz/live/xap/109965.m3u8?e=1785010831&token=f39c7d209983703cd44f7ceebc065fde8825a4a968f2611ac9d89e5eeb0e0b48
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://103.176.90.118/picons/logos/logos/MNX.png", HINDI| MNX FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156021.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156022.png", HINDI| MOVIES NOW FHD
@@ -514,6 +519,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116477
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282651.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282631.png", ENGLISH| SONY PIX
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282631.m3u8
+##### ASIA SPORTS #####
 #EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1057243.png", SPORTS| SPORTS 18 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1057243.m3u8
 #EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1698894.png", SPORTS| SPORTS 18 2 FHD
@@ -594,8 +600,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110667
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110666.m3u8
 #EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1110665.png", SPORTS| HUB SPORTS 3 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110665.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### BEIN SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238271.m3u8
+##### BEIN SPORTS #####
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/483921.m3u8
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN HD
@@ -736,6 +741,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032482
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032481.m3u8
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032480.m3u8
+##### OTHER SPORTS #####
 #EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 1 ᴴᴰ
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090460.m3u8
 #EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 ᴴᴰ
@@ -752,6 +758,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090455
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090454.m3u8
 #EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090453.m3u8
+##### UK SPORTS #####
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### BEIN SPORTS #####
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238271.m3u8
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN FHD
@@ -894,5 +901,3 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032482
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032481.m3u8
 #EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032480.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
-http://mxonlive.xyz/live/xap/109965.m3u8?e=1785010831&token=f39c7d209983703cd44f7ceebc065fde8825a4a968f2611ac9d89e5eeb0e0b48
