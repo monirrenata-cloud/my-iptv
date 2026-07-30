@@ -348,6 +348,10 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165514.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165517.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/165541.png", BAN| NEWS 24 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165541.m3u8
+EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/165521.png", BAN| SOMOY NEWS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165521.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225814.png", BAN| NEXUS TV
