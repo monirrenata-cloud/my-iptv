@@ -6,12 +6,8 @@
 # ===============================
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
 https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg" group-title="Bangla",Gazi TV
@@ -20,168 +16,8 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Gazi TV
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd@SD",Bangla TV (720p)
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (720p)
-https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd@SD",Bijoy TV (720p)
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV (720p)
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd@SD",BTV Chattogram (1080p)
-https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd@SD",BTV Chattogram (480p)
-https://tvsen6.aynaott.com/btvctg/index.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (1080p)
-https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (720p)
-https://tvsen6.aynaott.com/btvhd/index.m3u8
-#EXTINF:-1 tvg-id="BTVNews.bd@SD",BTV News (720p)
-https://tvsen6.aynaott.com/BTVNews/index.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd@SD",BTV World (1080p)
-https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd@SD",BTV World (720p)
-https://tvsen6.aynaott.com/btv_world/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd@SD",Channel 9 (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd@SD",Channel 9 (720p)
-https://tvsen6.aynaott.com/channel9/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
-https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd@SD",Channel I (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd@SD",Channel I (720p)
-https://tvsen6.aynaott.com/channeli/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd@SD",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (720p)
-https://tvsen6.aynaott.com/dbcnews/index.m3u8
-#EXTINF:-1 tvg-name="BD: BOISAKHI HD" group-title="BANGLA",BD: BOISAKHI HD
-http://fastshare1.com:80/live/25711345/late8airline/429.ts
-#EXTINF:-1 tvg-id="DBCNews.bd@SD",DBC News (480p)
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-id="DeeptoTV.bd@SD",Deepto TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-id="DeeptoTV.bd@SD",Deepto TV (720p)
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd@SD",Desh TV (1080p)
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd@SD",Desh TV (720p)
-https://tvsen6.aynaott.com/deshtv/index.m3u8
-#EXTINF:-1 tvg-id="DeshiTV.ca@SD",Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD",Duronto TV (720p)
-https://trs1.aynaott.com/duronto/index.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD",Duronto TV (720p)
-https://tvsen5.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD",Duronto TV (720p)
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd@SD",Ekattor TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd@SD",Ekattor TV (720p)
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (1080p)
-https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (720p)
-https://tvsen6.aynaott.com/ekhontv/index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd@SD",Ekushey TV (720p)
-https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd@SD",Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd@SD",Gazi TV (1080p)
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTelevision.bd@SD",Global TV (720p)
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd@SD",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (1080p)
-https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (480p)
-https://tvsen6.aynaott.com/independenttv/index.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd@SD",Jamuna TV (1080p)
-https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd@SD",Jamuna TV (480p)
-https://tvsen6.aynaott.com/jamunatv/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (720p)
-https://trs1.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (720p)
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd@SD",Mohona TV (1080p)
-https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd@SD",Mohona TV (720p)
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd@SD",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd@SD",My TV (720p)
-https://tvsen6.aynaott.com/mytv/index.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd@SD",My TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NANTV.bd@SD",NAN TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD",News 21 Bangla TV
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.bd@SD",News 24 (1080p)
-https://bozztv.com/rongo/rongo-News24HD/index.m3u8
-#EXTINF:-1 tvg-id="News24.bd@SD",News 24 (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
-#EXTINF:-1 tvg-id="News24.bd@SD",News 24 (720p)
-https://tvsen6.aynaott.com/news24/index.m3u8
-#EXTINF:-1 tvg-id="NTV.bd@SD",NTV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-id="NTV.bd@SD",NTV (720p)
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd@SD",RTV (1080p)
-https://bozztv.com/rongo/rongo-RTV/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd@SD",RTV (720p)
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd@SD",RTV (480p)
-http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-#EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD",Rupashi Bangla TV (720p)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SATV.bd@SD",SA TV (720p)
-https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd@SD",Sangsad TV (1080p)
-https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD",Somoy News TV (1080p)
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD",Somoy News TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD",Somoy News TV (720p)
-https://tvsen6.aynaott.com/somoytv/index.m3u8
-#EXTINF:-1 tvg-id="StarNews.bd@SD",Star News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd@SD",T Sports (720p)
-https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd@SD",T Sports (720p)
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd@SD",T Sports (720p)
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-#EXTINF:-1 tvg-id="VoktaTV.bd@SD",Vokta TV (720p)
-https://vokta.raytahost.com/live/voktatv/index.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd@SD",NTV Europe (576p)
-http://tvsen5.aynascope.net/ntveurope/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd@SD",RTV (720p)
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
-http://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD",Maasranga TV (720p)
-http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
@@ -206,23 +42,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangla",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangla",Atn Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangla",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangla",Ntv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="Bangla",Deepto Tv Backup
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="News",Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Bangla",T Sports
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Bangla",T Sports
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg" group-title="Bangla",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla",Maasranga TV
@@ -231,34 +58,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangla",Mohona TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png" group-title="Bangla",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="Bangla",Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangla",Bangla TV Europe
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png" group-title="Bangla",Anando TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangla",Channel S UK HD
-http://103.161.153.165:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co.com/nPXPTPK" group-title="Bangla",Srk Tv
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",Channel S HD
-http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="Bangla",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="News",Independent TV
@@ -297,22 +108,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Vp2HKT0s/Channel-S-TV.png", Channel S TV
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png", Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png", Desh TV
 https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Myscx0rx/Ekushe-TV.png", Ekushe TV
 https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Q7Q7X64N/Global-TV.png", Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/cc5rftrN/Gazi-TV.png", GTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/S7c6STRZ/Maasranga-TV.png", Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Ndvm37Vr/Mohona-TV.png", Mohona TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/7T2-k2SePa.png", My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0a2ae0189a44e789d3fecffe5a474ec3
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/d0hw38JN/Nexus-TV.png", Nexus TV
 https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/D8KxMc9soN.png", NTV
@@ -321,8 +124,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/qx2W3uKGsz.png", SA TV
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=336f19de5e4aacae753d7524d86d1a89
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg", Thikana
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Somoy TV Sports Feed 🇧🇩 Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png", ATN News HD
@@ -343,8 +144,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png", News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/97110.png", BAN| ATN BANGLA EU
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/97110.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/165526.png", BAN| ATN BANGLA HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165526.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/165527.png", BAN| ATN NEWS
@@ -359,8 +158,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165517.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165541.m3u8
 EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/165521.png", BAN| SOMOY NEWS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/165521.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225814.png", BAN| NEXUS TV
@@ -389,74 +186,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225735.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225732.m3u8
 #EXTINF:-1 group-title="BAN| BANGLADESH" tvg-logo="http://picons.cmshulk.com/picons/225723.png", BAN|  ATN BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225723.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png", CR| IPL 2026 CHANNEL 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2047231.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png", CR| IPL 2026 CHANNEL 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2047230.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://51.158.145.100/picons/logos/PPV/IPL.png", CR| IPL 2026 CHANNEL 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2047229.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104670.png", SPORTS| ASTRO CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104670.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104671.png", SPORTS| SONY SIX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104671.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104672.png", SPORTS| STAR SPORTS 1 HINDI HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104672.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104673.png", SPORTS| STAR SPORTS 1 ENGLISH HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104673.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104674.png", SPORTS| STAR SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104674.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104675.png", SPORTS| STAR SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104675.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104676.png", SPORTS| SPORTS 18 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104676.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/logos/WILLOW-CRICKET-EXTRA.png", US| WILLOW CRICKET EXTRA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1142110.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104677.png", US| WILLOW CRICKET
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104677.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1425812.png", CA| ATN CRICKET PLUS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1425812.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104678.png", AU| FOX CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104678.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104668.png", UK| SKY SPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104668.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png", UK| SUPERSPORT CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104669.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104679.png", NZ| SKY SPORT 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104679.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1127566.png", NZ| SKY SPORT 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1127566.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1104680.png", NZ| SKY SPORT 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1104680.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106878.png", PK| TENS SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106878.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106883.png", PK| A - SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106883.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106884.png", PK| PTV SPORTS FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106884.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106886.png", PK| GEO SUPER
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106886.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png", AR| STARZPLAY / CRLIFE 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106876.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png", AR| STARZPLAY / CRLIFE 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106877.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png", AR| STARZPLAY / CRLIFE 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1109344.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png", AR| STARZPLAY / CRLIFE 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1109345.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1110614.png", SG| HUB SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110614.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1127572.png", AFG| RTA SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1127572.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106879.png", CRB| FLOW SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106879.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1127570.png", CRB| RUSH PLUS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1127570.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1127568.png", CRB| RUSH SPORT
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1127568.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106880.png", CRB| SPORTSMAX
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106880.m3u8
-#EXTINF:-1 group-title="WC| WORLD CRICKET" tvg-logo="http://picons.cmshulk.com/picons/1106881.png", CRB| SPORTSMAX 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1106881.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/959.png", IN| SONY TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/959.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png", IN| ZEE TV HD
@@ -469,10 +198,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/164031.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/308949.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/946.png", IN| ZEE CINEMA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/946.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458625.png", UK| SONY MAX HEVC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1458625.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458623.png", UK| SONY MAX HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1458623.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280767.png", HINDI| STAR PLUS
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280767.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280744.png", HINDI| & PICTURES
@@ -489,10 +214,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155975.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280772.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/1532857.png", HINDI| ZEE CINEMA SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1532857.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280810.png", HINDI| BOX CINEMA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280810.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/155979.png", HINDI| CINEMA TV
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155979.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156025.png", HINDI| MN PLUS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/156025.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
@@ -501,405 +222,32 @@ http://mxonlive.xyz/live/xap/109965.m3u8?e=1785010831&token=f39c7d209983703cd44f
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156021.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156022.png", HINDI| MOVIES NOW FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156022.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/155749.png", ENGLISH| ALJAZEERA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155749.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282611.png", ENGLISH| ALJAZEERA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282611.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/155730.png", ENGLISH| ZEE CAFE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155730.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282644.png", ENGLISH| ZEE CAFE
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282644.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/1116488.png", ENGLISH| STAR MOVIES HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116488.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/155727.png", ENGLISH| STAR MOVIES HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155727.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282639.png", ENGLISH| STAR MOVIES FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282639.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://103.176.90.118/picons/logos/STAR-MOVIES-SELECT-HD.jpg", ENGLISH| STAR SELECT MOV
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116489.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/155729.png", ENGLISH| STAR MOVIES SELECT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155729.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/1116477.png", ENGLISH| MOVIES NOW FHD
+TINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/1116477.png", ENGLISH| MOVIES NOW FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116477.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282651.png", ENGLISH| MOVIES NOW
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282651.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282631.png", ENGLISH| SONY PIX
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282631.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1057243.png", SPORTS| SPORTS 18 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1057243.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1698894.png", SPORTS| SPORTS 18 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1698894.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1698893.png", SPORTS| SPORTS 18 3 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1698893.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/281100.png", SPORTS| A SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/281100.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156027.png", SPORTS| D SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156027.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/155983.png", SPORTS| DD SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155983.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/315181.png", SPORTS| ASTRO CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/315181.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156016.png", SPORTS| TSPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156016.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156102.png", SPORTS| STAR SPORTS KANNADA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156102.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HD.jpg", SPORTS| STAR SPORTS 1 ENGLISH HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155968.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114582.png", SPORTS| STAR SPORTS HINDI 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114582.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/155967.png", SPORTS| STAR SPORTS 1 HINDI HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155967.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282674.png", SPORTS| STAR SPORTS HINDI 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282674.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114580.png", SPORTS| STAR SPORTS 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114580.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282677.png", SPORTS| STAR SPORTS 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282677.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114581.png", SPORTS| STAR SPORTS 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114581.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/155966.png", SPORTS| STAR SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155966.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282673.png", SPORTS| STAR SPORTS 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282673.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/155976.png", SPORTS| STAR SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155976.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282678.png", SPORTS| STAR SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282678.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS| STAR SPORTS SELECT 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114583.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/155972.png", SPORTS| STAR SPORTS SELECT 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155972.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282675.png", SPORTS| STAR SPORTS SELECT 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282675.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114584.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155973.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282676.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-TAMIL.jpg", SPORTS| STAR SPORTS TAMIL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155873.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114576.png", SPORTS| TEN 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114576.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156017.png", SPORTS| TEN 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156017.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282670.png", SPORTS| TEN 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282670.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114577.png", SPORTS| TEN 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114577.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156010.png", SPORTS| TEN 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156010.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282671.png", SPORTS| TEN 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282671.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114578.png", SPORTS| TEN 3 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114578.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/156024.png", SPORTS| TEN 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156024.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/282672.png", SPORTS| TEN 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282672.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1114579.png", SPORTS| TEN 4 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1114579.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1110667.png", SPORTS| HUB SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110667.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1110666.png", SPORTS| HUB SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110666.m3u8
-#EXTINF:-1 group-title="ASIA | SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1110665.png", SPORTS| HUB SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1110665.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/483921.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/49226.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORT 2 EN FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/483920.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORT 2 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/49225.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735946.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238265.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238261.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735945.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238264.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238262.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735944.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238266.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238263.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png", UK| BEIN SPORTS 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238267.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png", UK| BEIN SPORTS 5 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238268.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png", UK| BEIN SPORTS 6 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238269.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png", UK| BEIN SPORTS 7 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238270.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS AU 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348093.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS AU 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348102.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS AU 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348103.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### BEIN SPORTS ASIA #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923433.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS ASIA 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923432.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| UK| BEIN SPORTS ASIA 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923431.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| UK| BEIN SPORTS ASIA 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923430.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SUPER SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239075.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS ACTION HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425668.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS BLITZ HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425310.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239087.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS EVENTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425312.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239083.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS GOLF HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425667.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS GRANDSTAND HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239079.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS LIGA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239076.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS MAXIMO HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425666.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS MOTORSPORT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239082.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPER SPORTS PLAY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425313.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PLAY 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425311.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239078.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PSL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239077.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS RUGBY HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239086.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS TENNIS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425314.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239081.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239080.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239085.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239084.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### UK ASTRO SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918987.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Football
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918983.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Football
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1016545.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Grandstand
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918984.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1016544.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918985.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918986.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### UK NOW SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032490.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032479.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032478.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032477.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032476.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 616
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032489.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 617
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032488.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032475.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 6
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032474.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 7
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032473.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032487.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032486.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032485.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032484.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032483.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 6
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032482.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 7
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032481.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 8
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032480.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 1 ᴴᴰ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090460.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 ᴴᴰ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090459.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 1 SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090458.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090457.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 1 ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090456.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 ᴿᴬᵂ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090455.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090454.m3u8
-#EXTINF:-1 group-title="DE| FUSSBALL.TV WORLD CUP" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png", DE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/2090453.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### BEIN SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238271.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/483921.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORT 1 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/49226.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORT 2 EN FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/483920.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORT 2 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/49225.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735946.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238265.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS 1 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238261.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735945.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238264.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS 2 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238262.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 EN SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/735944.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238266.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS 3 PREMIUM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238263.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png", UK| BEIN SPORTS 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238267.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png", UK| BEIN SPORTS 5 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238268.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png", UK| BEIN SPORTS 6 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238269.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png", UK| BEIN SPORTS 7 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/238270.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS AU 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348093.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| BEIN SPORTS AU 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348102.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| BEIN SPORTS AU 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1348103.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### BEIN SPORTS ASIA #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923433.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png", UK| BEIN SPORTS ASIA 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923432.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png", UK| UK| BEIN SPORTS ASIA 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923431.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png", UK| UK| BEIN SPORTS ASIA 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/923430.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SUPER SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239075.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS ACTION HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425668.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS BLITZ HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425310.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239087.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS EVENTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425312.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239083.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS GOLF HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425667.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS GRANDSTAND HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239079.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS LIGA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239076.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS MAXIMO HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425666.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS MOTORSPORT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239082.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPER SPORTS PLAY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425313.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PLAY 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425311.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239078.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS PSL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239077.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS RUGBY HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239086.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS TENNIS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/425314.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239081.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239080.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239085.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png", UK| SUPERSPORTS VARIETY 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/239084.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### UK ASTRO SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918987.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Football
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918983.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Football
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1016545.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Grandstand
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918984.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1016544.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918985.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png", UK| ASTRO Premier League HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/918986.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### UK NOW SPORTS #####
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032490.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032479.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032478.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032477.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032476.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 616
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032489.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 617
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032488.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032475.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 6
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032474.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 7
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032473.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032487.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032486.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032485.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032484.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 5
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032483.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 6
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032482.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 7
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032481.m3u8
-#EXTINF:-1 group-title="UK| WORLD SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png", UK| NOW HK PREMIER SPORTS 8
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1032480.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Somoy News TV (1080p)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",T Sports (1080p)
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",RTV (720p)
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
