@@ -16,8 +16,6 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla",Ekattor TV
@@ -98,8 +96,6 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d2782c406bc6c9f853716c3dc41a439
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png", Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
-#EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Vp2HKT0s/Channel-S-TV.png", Channel S TV
-https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png", Desh TV
 https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co.com/Myscx0rx/Ekushe-TV.png", Ekushe TV
@@ -128,8 +124,6 @@ https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://e7.pngegg.com/pngimages/500/179/png-clipart-bangladesh-logo-independent-television-television-channel-bd-logo-television-text-thumbnail.png", Independent TV
 https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png", Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://www.jamuna.tv/uploads/settings/default_img_1.jpg", Jamuna TV
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png", News 24
