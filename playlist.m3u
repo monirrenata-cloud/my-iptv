@@ -176,6 +176,8 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116477
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282651.m3u8
 #EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282631.png", ENGLISH| SONY PIX
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282631.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg" group-title="ASIA | ENGLISH",Sony Pix HD
+https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Somoy News TV (1080p)
