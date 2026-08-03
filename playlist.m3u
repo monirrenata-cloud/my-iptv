@@ -156,6 +156,12 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155975.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280772.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/1532857.png", HINDI| ZEE CINEMA SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1532857.m3u8
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
+http://mxonlive.xyz/live/xap/109955.m3u8?e=1785850876&token=e725343c5f13cc603dacfa43a01c2bd5eddea4c29e6c402cd92432bae343ae79
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
+http://mxonlive.xyz/live/xap/109957.m3u8?e=1785850876&token=b5ed39b74e30ad49ca60c3e11fad2a6c3a2847e2d0bb9edea56bf74ac11ab0dc
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
+http://mxonlive.xyz/live/xap/109958.m3u8?e=1785850876&token=3a8f092283750ad89b3d7021cf9eaa1d10a23af05d8d9f23fa2d68471337a146
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156025.png", HINDI| MN PLUS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/156025.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
