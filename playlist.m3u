@@ -245,3 +245,24 @@ http://mxonlive.xyz/live/xap/245949.m3u8?e=1785954483&token=a1596d80b8880d188e3b
 http://mxonlive.xyz/live/xap/245957.m3u8?e=1785954483&token=387b1c1e3fe76f40f261151ddf46f3ccca624fc5e5ca4e9730b3ea35f706f40c
 #EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="BANGLADESH",BD: CHANNEL 24
 http://mxonlive.xyz/live/xap/245969.m3u8?e=1785954483&token=f274be8983df6969ad348c1550abe869d7c0b8240e3881f6d37fe146b3b87354
+===AHAN 443===
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
