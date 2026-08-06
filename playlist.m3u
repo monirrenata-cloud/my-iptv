@@ -152,12 +152,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155975.
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280772.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/1532857.png", HINDI| ZEE CINEMA SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1532857.m3u8
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
-http://mxonlive.xyz/live/xap/109955.m3u8?e=1785850876&token=e725343c5f13cc603dacfa43a01c2bd5eddea4c29e6c402cd92432bae343ae79
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
-http://mxonlive.xyz/live/xap/109957.m3u8?e=1785850876&token=b5ed39b74e30ad49ca60c3e11fad2a6c3a2847e2d0bb9edea56bf74ac11ab0dc
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
-http://mxonlive.xyz/live/xap/109958.m3u8?e=1785850876&token=3a8f092283750ad89b3d7021cf9eaa1d10a23af05d8d9f23fa2d68471337a146
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156025.png", HINDI| MN PLUS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/156025.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
@@ -345,3 +339,18 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_9&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sa_tv&format=.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg" group-title="Uncategorized",Bangla TV
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bangla_tv&format=.m3u8
+===OTV===
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
+http://mxonlive.xyz/live/xap/109955.m3u8?e=1786116054&token=fb7566968eb0b1855eff78270406316317e2bb59c17526ec57480d26f3b2bc6b
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
+http://mxonlive.xyz/live/xap/109957.m3u8?e=1786116054&token=8e16149349b1ffcd7de299d411601af8d3dc9c4915b6ebf43628fbb6c97baf0d
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
+http://mxonlive.xyz/live/xap/109958.m3u8?e=1786116054&token=4563085a696a6b868db50677cf7433dc40f65d3f26ee7676860ad7c83bc7d62a
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
+http://mxonlive.xyz/live/xap/109965.m3u8?e=1786116054&token=3ba8751e69ada558b8647f232236522a60e27b07bfc931aba691189a517bdb37
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY PIX (4K)
+http://mxonlive.xyz/live/xap/109966.m3u8?e=1786116054&token=7b7d534e36ace635a88dc084fb02938fc993a018f70221004c45feaac4cb5eb8
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Movies Now (4K)
+http://mxonlive.xyz/live/xap/109968.m3u8?e=1786116054&token=8dfe73018028329999cf585be7ba55b9ba9d33425731e95e01f3ac72b080ae05
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
+http://mxonlive.xyz/live/xap/109970.m3u8?e=1786116054&token=d8162083215528170f7c502ba6c0e3d42905fc9f7de5ebca057866b1c9c63823
