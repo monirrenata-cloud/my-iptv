@@ -4,10 +4,6 @@
 # TYPE: Single Channel Conversion
 # GENERATED: 2026-07-29
 # ===============================
-#EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
-https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV
@@ -22,8 +18,6 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png", ATN News HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
-#EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png", News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/959.png", IN| SONY TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/959.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png", IN| ZEE TV HD
@@ -82,26 +76,6 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BD | BOISHAKHI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="BANGLADESH",BD | BOISHAKHI TV HD
-http://mxonlive.xyz/live/xap/245923.m3u8?e=1785954483&token=e22466d920e449e2803460f350dda8b94afc0f39648e0e88167e9eab3fbd3c29
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: ntv" tvg-logo="" group-title="BANGLADESH",BD-loc: ntv
-http://mxonlive.xyz/live/xap/245924.m3u8?e=1785954483&token=520bc17bd113fce8fe4982a86a5052a39c6b334a339cfe713d4dec9f658c30d0
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: SOMOY tv NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLADESH",BD-loc: SOMOY tv NEWS
-http://mxonlive.xyz/live/xap/245925.m3u8?e=1785954483&token=b3f8bb1dbdb3ac5fa48ce84e4631374ddd06944f5367bea4bba98b74eae780e1
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLADESH",bd-loc: Ekushey TV
-http://mxonlive.xyz/live/xap/245937.m3u8?e=1785954483&token=e85bf19e0de37ef219d6ef7ef942f7c90edf899bd3a679fbf4710ac0f1ed421b
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Nagorik tv" tvg-logo="" group-title="BANGLADESH",bd-loc: Nagorik tv
-http://mxonlive.xyz/live/xap/245939.m3u8?e=1785954483&token=a4410fb008a47a7508fdb8c83ea18bfc713a140cdc20e8c657d74dbd0a87c174
-#EXTINF:-1 tvg-id="" tvg-name="BD: EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESH",BD: EKHON TV
-http://mxonlive.xyz/live/xap/245943.m3u8?e=1785954483&token=6eda68cd1429ec7b02279fb7604e2e7bdce82e1cc27aa3f16be6a7b35ba6b3e9
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: SA TV" tvg-logo="" group-title="BANGLADESH",bd-loc: SA TV
-http://mxonlive.xyz/live/xap/245945.m3u8?e=1785954483&token=6e278bbe8df56c254197c3db746953ea95ea456736f978996f062a583e224ce4
-#EXTINF:-1 tvg-id="" tvg-name="BD-Loc: Nexus TV" tvg-logo="" group-title="BANGLADESH",BD-Loc: Nexus TV
-http://mxonlive.xyz/live/xap/245949.m3u8?e=1785954483&token=a1596d80b8880d188e3b3eb9f151ba399ac770a45fa8291c77b7e09c67a05987
-#EXTINF:-1 tvg-id="" tvg-name="BD | BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="BANGLADESH",BD | BANGLA VISION
-http://mxonlive.xyz/live/xap/245957.m3u8?e=1785954483&token=387b1c1e3fe76f40f261151ddf46f3ccca624fc5e5ca4e9730b3ea35f706f40c
-#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="BANGLADESH",BD: CHANNEL 24
-http://mxonlive.xyz/live/xap/245969.m3u8?e=1785954483&token=f274be8983df6969ad348c1550abe869d7c0b8240e3881f6d37fe146b3b87354
 ===AHAN 443===
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
