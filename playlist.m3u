@@ -123,11 +123,23 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/76GX5wLZ/20240822-231119.png",Nexus 
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Global TVttps://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/kXrYt6K3/20240822-230901.png",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png", Nagorik
 http://103.151.61.12/Nagorik_TV/video.m3u8
 ===OTV===
-
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
+http://mxonlive.xyz/live/xap/109955.m3u8?e=1786361387&token=a0812b8065e78090a50d331f98c74c1f4670dc173d39d1655c576846fecf6af6
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
+http://mxonlive.xyz/live/xap/109957.m3u8?e=1786361387&token=ee143d62a7fa72eb934d7f8e79b6c604ffdd694484ee05f6a47c53b914166013
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
+http://mxonlive.xyz/live/xap/109958.m3u8?e=1786361387&token=814e6b3620d1fe502fbaf2709a8c8dea9d77a4e8c86a95df2f166843092eb6ab
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
+http://mxonlive.xyz/live/xap/109965.m3u8?e=1786361387&token=996aa57770473cc3151a54828d8caca9134e872a079e0b465af41aa0117239a8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY PIX (4K)
+http://mxonlive.xyz/live/xap/109966.m3u8?e=1786361387&token=b93a60a30c8a60e72c399e55b5175e140bf3991f010ca5b9a487296c00486fab
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Movies Now (4K)
+http://mxonlive.xyz/live/xap/109968.m3u8?e=1786361387&token=e9927e96b60a3a58b576c2c0541ce4461a2ad6845bf74c8bd3b89cb20d22f4b8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
+http://mxonlive.xyz/live/xap/109970.m3u8?e=1786361387&token=
