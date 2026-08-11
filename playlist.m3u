@@ -145,3 +145,8 @@ http://mxonlive.xyz/live/xap/109966.m3u8?e=1786361387&token=b93a60a30c8a60e72c39
 http://mxonlive.xyz/live/xap/109968.m3u8?e=1786361387&token=e9927e96b60a3a58b576c2c0541ce4461a2ad6845bf74c8bd3b89cb20d22f4b8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
 http://mxonlive.xyz/live/xap/109970.m3u8?e=1786361387&token=
+===Ayna==
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="Bangla",Independent TV
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8?e=1784102536&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=faa76e200f238010e464d45a3135f138
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Bangla",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8?e=1784102566&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=de9d33cfd8daf9a7f2e56a88534d0548
