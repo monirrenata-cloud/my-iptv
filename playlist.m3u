@@ -18,54 +18,18 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png", ATN News HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/959.png", IN| SONY TV
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/959.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png", IN| ZEE TV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/945569.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/163523.png", IN| SONY MAX FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/163523.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/164031.png", IN| SONY MAX
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/164031.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/308949.png", IN| ZEE CINEMA FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/308949.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/946.png", IN| ZEE CINEMA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/946.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280767.png", HINDI| STAR PLUS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280767.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280744.png", HINDI| & PICTURES
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280744.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/155997.png", HINDI| & PICTURES FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155997.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156013.png", HINDI| SONY MAX FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156013.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156106.png", HINDI| SONY MAX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156106.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/155975.png", HINDI| ZEE CINEMA FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155975.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/280772.png", HINDI| ZEE CINEMA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/280772.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/1532857.png", HINDI| ZEE CINEMA SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1532857.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156025.png", HINDI| MN PLUS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/156025.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://103.176.90.118/picons/logos/logos/MNX.png", HINDI| MNX FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156021.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156022.png", HINDI| MOVIES NOW FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156022.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/1116488.png", ENGLISH| STAR MOVIES HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116488.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/155727.png", ENGLISH| STAR MOVIES HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/155727.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282639.png", ENGLISH| STAR MOVIES FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282639.m3u8
-TINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/1116477.png", ENGLISH| MOVIES NOW FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1116477.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282651.png", ENGLISH| MOVIES NOW
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282651.m3u8
-#EXTINF:-1 group-title="ASIA | ENGLISH" tvg-logo="http://picons.cmshulk.com/picons/282631.png", ENGLISH| SONY PIX
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/282631.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg" group-title="ASIA | ENGLISH",Sony Pix HD
-https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | SONY MAX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156013
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | ZEE CINEMA HD
+http://103.178.78.151:7505/play/a0wb/index.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | &PICTURES HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | STAR MOVIES HD
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | SONY PIX HD
+http://103.178.78.151:7505/play/a0vl/index.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | MOVIES NOW HD
+http://116.90.120.152:8000/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Gazi TV
