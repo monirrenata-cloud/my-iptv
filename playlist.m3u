@@ -18,18 +18,18 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png", ATN News HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | SONY MAX HD
-http://mag.trexlive.me:80/Michael88/Michael88/156013
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | ZEE CINEMA HD
-http://103.178.78.151:7505/play/a0wb/index.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", HINDI | &PICTURES HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | STAR MOVIES HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | SONY PIX HD
-http://103.178.78.151:7505/play/a0vl/index.m3u8
-#EXTINF:-1 group-title="ASIA | INDIA MOVIES", ENGLISH | MOVIES NOW HD
-http://116.90.120.152:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",ZEE CINEMA HD
+http://10.20.30.30:7171/Movies-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",AND PICTURE HD
+http://10.20.30.30:7171/Movies-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",SONY MAX HD
+http://10.20.30.30:7171/Movies-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",STAR MOVIES HD
+http://10.20.30.30:7171/Movies-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",SONY PIX HD
+http://10.20.30.30:7171/Movies-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+#EXTINF:-1 group-title="ASIA | INDIA MOVIES",MOVIES NOW HD
+http://10.20.30.30:7171/Movies-9/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Unknown",Gazi TV
