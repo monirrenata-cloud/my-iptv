@@ -101,7 +101,7 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 http://103.151.61.12/Nagorik_TV/video.m3u8
 ===OTV===
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
-http://mxonlive.xyz/live/xap/109955.m3u8?e=1788597167&token=728960baccca9df77170d106ef598a9d972f0a856e114cf0d92ff92685fa8cea
+http://mxonlive.xyz/live/xap/109955.m3u8?e=1788613952&token=8885b568646a023995b8a96638466dc654e79da9147485893aa60fde4cd63e77
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
 http://mxonlive.xyz/live/xap/109957.m3u8?e=1788597167&token=444ac3e39c7d1ed24bbc35a5fa45da9b06744b82a9da916e7a9590b86c6bb08c
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
@@ -148,3 +148,30 @@ https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8?e=1784102566&u=ee5437a7-c16b
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Pix HD" group-title="Others",Sony Pix HD
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+==Live TV==
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png" group-title="Movies",EN | Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PIX.png" group-title="INDIA | INDIA",SONY PIX FHD [IN]
+http://xown.site/token/stream.php?id=1483971&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png" group-title="INDIA | INDIA",SONY MAX FHD [IN]
+http://xown.site/token/stream.php?id=1483932&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png" group-title="INDIA | INDIA",SONY MAX FHD (BK) [IN]
+http://xown.site/token/stream.php?id=1483933&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png" group-title="INDIA | INDIA",ZEE CINEMA HD [IN]
+http://xown.site/token/stream.php?id=1483909&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeecinema.png" group-title="INDIA | INDIA",ZEE CINEMA SD [IN]
+http://xown.site/token/stream.php?id=1545855&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png" group-title="INDIA | INDIA",ZEE CINEMA FHD [IN]
+http://xown.site/token/stream.php?id=1483910&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AND-TV-HD-USA.png" group-title="INDIA | INDIA",AND PICTURES FHD [IN]
+http://xown.site/token/stream.php?id=1484032&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AND-TV-HD-USA.png" group-title="INDIA | INDIA",AND PICTURES FHD [IN]
+http://xown.site/token/stream.php?id=1484031&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MN-PLUS-MOVIES.png" group-title="INDIA | INDIA",MN+ MOVIES FHD [IN]
+http://xown.site/token/stream.php?id=1545864&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MN-PLUS.png" group-title="INDIA | INDIA",MN PLUS FHD [IN]
+http://xown.site/token/stream.php?id=1484108&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MNX.png" group-title="INDIA | INDIA",MNX FHD [IN]
+http://xown.site/token/stream.php?id=1484109&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MOVIES-NOW.png" group-title="INDIA | INDIA",MOVIES NOW FHD [IN]
+http://xown.site/token/stream.php?id=1484111&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
