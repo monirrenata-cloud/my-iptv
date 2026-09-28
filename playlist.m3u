@@ -123,3 +123,5 @@ EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX FHD" tvg-logo="https://upload.wikime
 http://mxonlive.xyz/live/xap/66266.m3u8?e=1790581325&token=df7b87d749c9439a6f5b443b4929aa10ddc032493eeb0baff217e4372c1f8ca5
 #EXTINF:-1 tvg-id="" tvg-name="IN | Movies Now FHD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Movies Now FHD
 http://mxonlive.xyz/live/xap/66271.m3u8?e=1790581325&token=9850409b9fa4a29f2bba8a562bc805d02aa107f5bc82d727ee7055556ce29a24
+#EXTINF:-1 tvg-id="SonyMax4K" tvg-name="Sony Max 4K" tvg-logo="" group-title="Movies",Sony Max 4K
+http://fastshare1.com:8080/live/931461266/374152877/98857.ts?RKDYIPTV&token=rkdyiptv
