@@ -82,3 +82,19 @@ http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8#M3U_World_4K
 http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-logo="img/channels/MOVIES NOW HD.png" group-title="Hindi",MOVIES.NOW.HD
 http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/DBC NEWS.png" group-title="News",DBC.NEWS.HD
+http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/CHANNEL 24.png" group-title="News",CHANNEL.24.HD
+http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/SOMOY TV.png" group-title="Sports",SHOMOY TV HD
+http://198.195.239.50:8095/somoyTv/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/SOMOY TV.png" group-title="News",SOMOY.TV.HD
+http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/images.png" group-title="News",EAKHON.TV.HD
+http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/JAMUNA TV.png" group-title="News",JAMUNA.TV
+http://198.195.239.50:8095/JAMUNA.TV/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/INDEPENDENT TV.png" group-title="News",INDEPENDENT.TV
+http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/EKATTOR_TV.png" group-title="News",EKATTOR.TV.HD
+http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8#M3U_World_4K
