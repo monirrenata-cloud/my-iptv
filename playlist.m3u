@@ -30,7 +30,6 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L83Ngf3C/banglavision.webp"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
@@ -65,8 +64,6 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 http://103.151.61.12/Nagorik_TV/video.m3u8
 #EXTINF:-1 tvg-logo="img/channels/images__4_.png" group-title="Bangla",GAZI.TV.HD
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="Sports",T-SPORTS-HD
-http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
 ===OTV===
 #EXTINF:-1 tvg-logo="img/channels/images__1_.png" group-title="Hindi",AND.PICTURS.HD
 http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8#M3U_World_4K
@@ -104,3 +101,5 @@ http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8#M3U_World_4K
 http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-logo="img/channels/NAGORIK.png" group-title="News",NAGORIK.TV.HD
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="Sports",T-SPORTS-HD
+http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
