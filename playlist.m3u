@@ -105,3 +105,7 @@ http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#M3U_World_4K
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-logo="img/channels/CHANNEL I.png" group-title="Bangla",CHANNEL.I.HD
 http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8#M3U_World_4K
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#fb:M3U_World_4K
