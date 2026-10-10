@@ -34,8 +34,6 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L83Ngf3C/banglavision.webp"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel 1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Bangladeshi",Channel 1
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",Star News
@@ -112,6 +110,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLADESH",bd-loc: Ekushey TV
 http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478a62df0548a36f069016a1b9bf88302b9d440b5a6866c
 ===SKY M3U===
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Star Jalsha HD
