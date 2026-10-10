@@ -110,6 +110,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLADESH",bd-loc: Ekushey TV
 http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478a62df0548a36f069016a1b9bf88302b9d440b5a6866c
 ===SKY M3U===
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 1
