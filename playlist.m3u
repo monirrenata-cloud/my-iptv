@@ -165,8 +165,8 @@ http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#skym3u.dev
 http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ZEE.CINEMA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ZEE.CINEMA.HD
 http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="STAR.GOLD.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",STAR.GOLD.HD
-http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi",ANT.PICTURS.HD
+http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
 #EXTINF:-1 tvg-name="SONY.MAX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SONY.MAX.HD
 http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="STAR.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",STAR.PLUS.HD
