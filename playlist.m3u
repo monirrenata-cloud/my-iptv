@@ -113,7 +113,7 @@ http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#skym3u.dev
