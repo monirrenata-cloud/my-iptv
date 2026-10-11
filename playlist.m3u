@@ -115,99 +115,97 @@ http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ATN News
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Jamuna TV
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v"group-title="Bangla Channel"provider="skym3u.dev",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",DBC News
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="News 24 BD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",News 24 BD
+#EXTINF:-1 tvg-name="News 24 BD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",News 24 BD
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Ekattor TV
+#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Somoy TV
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel I
+#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",RTV
 https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Desh TV
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://tinyurl.com/mr2dec8v"group-title="Bangla Channel"provider="skym3u.dev",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SA TV
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Bangla TV
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ATN Bangla
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Bangla Vision
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Maasranga TV
+#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="T-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",T-SPORTS-HD
+#EXTINF:-1 tvg-name="T-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Sports Channel"provider="skym3u.dev",T-SPORTS-HD
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="A.SPORTS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",A.SPORTS.HD
+#EXTINF:-1 tvg-name="A.SPORTS.HD" tvg-logo="https://tinyurl.com/mr2dec8v"group-title="Sports Channel"provider="skym3u.dev",A.SPORTS.HD
 http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="PTV-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",PTV-SPORTS-HD
+#EXTINF:-1 tvg-name="PTV-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Sports Channel"provider="skym3u.dev",PTV-SPORTS-HD
 http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ETV.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ETV.BANGLA.HD
+#EXTINF:-1 tvg-name="ETV.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ETV.BANGLA.HD
 http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="DEEPTOTV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",DEEPTOTV.HD
-http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="GAZI.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",GAZI.TV.HD
+#EXTINF:-1 tvg-name="GAZI.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",GAZI.TV.HD
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="NAGORIK.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",NAGORIK.TV.HD
+#EXTINF:-1 tvg-name="NAGORIK.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",NAGORIK.TV.HD
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="SONY.ENT.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SONY.ENT.HD
+#EXTINF:-1 tvg-name="SONY.ENT.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi Channel"provider="skym3u.dev",SONY.ENT.HD
 http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ZEE.CINEMA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ZEE.CINEMA.HD
+#EXTINF:-1 tvg-name="ZEE.CINEMA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi Movie"provider="skym3u.dev",ZEE.CINEMA.HD
 http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi",ANT.PICTURS.HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi Movie",ANT.PICTURS.HD
 http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
-#EXTINF:-1 tvg-name="SONY.MAX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SONY.MAX.HD
+#EXTINF:-1 tvg-name="SONY.MAX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi Movie"provider="skym3u.dev",SONY.MAX.HD
 http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="STAR.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",STAR.PLUS.HD
+#EXTINF:-1 tvg-name="STAR.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Hindi Channel"provider="skym3u.dev",STAR.PLUS.HD
 http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="SONY.PIX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SONY.PIX.HD
+#EXTINF:-1 tvg-name="SONY.PIX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",SONY.PIX.HD
 http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="MNX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",MNX.HD
+#EXTINF:-1 tvg-name="MNX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",MNX.HD
 http://198.195.239.50:8095/MNX.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ROMEDY.NOW" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ROMEDY.NOW
+#EXTINF:-1 tvg-name="ROMEDY.NOW" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",ROMEDY.NOW
 http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="MN.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",MN.PLUS.HD
+#EXTINF:-1 tvg-name="MN.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",MN.PLUS.HD
 http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="STAR.MOVIES.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",STAR.MOVIES.HD
+#EXTINF:-1 tvg-name="STAR.MOVIES.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",STAR.MOVIES.HD
 http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="MOVIES.NOW.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",MOVIES.NOW.HD
+#EXTINF:-1 tvg-name="MOVIES.NOW.HD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="English Movie"provider="skym3u.dev",MOVIES.NOW.HD
 http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ATN Bangla
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ATN Bangla
 http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Bangla TV
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Bangla TV
 http://116.204.149.16/banglatv/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Bangla Vision
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Boishakhi TV
 http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 24
 http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 9
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 9
 http://wdp.joycalls.com/get#skym3u.dev
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",DBC News
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",DBC News
 http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Ekhon TV
+#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Ekhon TV
 http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Global TV
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Global TV
 http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Independent TV
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Independent TV
 http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Jamuna TV
 http://198.195.239.50:8095/JAMUNA.TV/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",RTV
 http://tvsen5.aynascope.net/RtvHD/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",SA TV
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",SA TV
 http://116.204.149.16/satv/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Somoy TV
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Somoy TV
 http://198.195.239.50:8095/somoyTv/index.m3u8#skym3u.dev
