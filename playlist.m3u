@@ -98,7 +98,7 @@ http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8#M3U_World_4K
 http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-logo="img/channels/NAGORIK.png" group-title="Bangla Channel",NAGORIK.TV.HD
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="Sports",T-SPORTS-HD
+#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="Sports Channel",T-SPORTS-HD
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-logo="img/channels/CHANNEL I.png" group-title="Bangla Channel",CHANNEL.I.HD
 http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8#M3U_World_4K
@@ -108,8 +108,6 @@ https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#fb:M3U_World_4K
 http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478a62df0548a36f069016a1b9bf88302b9d440b5a6866c
 ===SKY M3U===
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ATN News
