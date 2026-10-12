@@ -18,51 +18,6 @@ http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Bangla Channel",NTV (720p)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-===AHAN 443===
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",ATN Bangla
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png",Boishakhi
-https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png",Channel i
-https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png"group-title="Bangla Channel",NTV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png"group-title="Bangla Channel",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L83Ngf3C/banglavision.webp"group-title="Bangla Channel",Banglavision
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Bangla Channel",Channel 1
-https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla Channel",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="Bangla Channel",Ekattor HD 
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822_230837.png",DBC News
-https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/xTz0Qj3G/DESH-TV1.png",Desh TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/pd019sYq/20240822_230705.png",SA TV
-https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png",News 24
-https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="Bangla Channel",Maasranga 
-https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://i.postimg.cc/1tkB62gc/20240822-231147.png",Ekhon
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel"tvg-logo="https://i.postimg.cc/76GX5wLZ/20240822-231119.png",Nexus 
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Xq98gLdM/20240822_231218.png" group-title="Bangla Channel",Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://i.postimg.cc/kXrYt6K3/20240822-230901.png",Bangla Tv
-https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
-#EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png", Nagorik
-http://103.151.61.12/Nagorik_TV/video.m3u8
-#EXTINF:-1 tvg-logo="img/channels/images__4_.png" group-title="Bangla Channel",GAZI.TV.HD
-http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8#M3U_World_4K
 ===OTV===
 #EXTINF:-1 tvg-logo="img/channels/images__1_.png" group-title="Hindi Movie",AND.PICTURS.HD
 http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8#M3U_World_4K
@@ -109,7 +64,6 @@ https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="Bangla Channel",bd-loc: Ekushey TV
 http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478a62df0548a36f069016a1b9bf88302b9d440b5a6866c
 ===SKY M3U===
-#EXTM3U
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",ATN News
@@ -210,3 +164,21 @@ http://198.195.239.50:8095/somoyTv/index.m3u8#skym3u.dev
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156021&extension=ts&play_token=NRroSBfH1Q
 #EXTINF:-1,HINDI| MOVIES NOW FHD
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156022&extension=ts&play_token=qfZg6Vw0gu
+#EXTINF:-1,HINDI| STAR MOVIES FHD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=1112131&extension=ts&play_token=0DOMDB2zKA
+#EXTINF:-1,HINDI| SONY MAX FHD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156013&extension=ts&play_token=pzDB2RBBoX
+#EXTINF:-1,HINDI| SONY MAX HD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156106&extension=ts&play_token=zVLJmbToRI
+#EXTINF:-1,HINDI| & PICTURES FHD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=155997&extension=ts&play_token=pJsaHbTe2N
+#EXTINF:-1,HINDI| ZEE CINEMA FHD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=155975&extension=ts&play_token=ksHuk7NS2s
+#EXTINF:-1,HINDI| ZEE CINEMA HD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=280772&extension=ts&play_token=RZFDKRnLsN
+#EXTINF:-1,ENGLISH| SONY PIX FHD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=1116481&extension=ts&play_token=SNI76GFwWF
+#EXTINF:-1,ENGLISH| SONY PIX
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=282631&extension=ts&play_token=YrLf88mU9K
+#EXTINF:-1,HINDI| MN PLUS HD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156025&extension=ts&play_token=Ixr2YApv4i
