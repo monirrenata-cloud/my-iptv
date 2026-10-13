@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",DBC.NEWS.HD
-http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",EAKHON.TV.HD
-http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",EKATTOR.TV.HD
-http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",NAGORIK.TV.HD
-http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",JAMUNA.TV
-http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",INDEPENDENT.TV
-http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",SOMOY.TV.HD
-http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",CHANNEL.24.HD
-http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",ATN.NEWS.HD
-http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="News",NEWS.24
-http://198.195.239.50:8095/NEWS.24/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Entertainment",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Entertainment",NTV
