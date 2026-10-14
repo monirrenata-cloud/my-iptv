@@ -196,11 +196,11 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156016&
 #EXTINF:-1,PK| A - SPORTS FHD
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=165565&extension=ts&play_token=LxUYDBQ39z
 ==Tapash==
-#EXTINF:-1,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,Channel 9
-https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:-1,Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Jamuna TV
+https://iptv-proxy.ahmed-bd-org.workers.dev/jamuna-tv/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 9
+https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Ekushey TV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#skym3u.dev
