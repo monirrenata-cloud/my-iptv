@@ -200,3 +200,5 @@ https://iptv-proxy.ahmed-bd-org.workers.dev/jamuna-tv/index.m3u8#skym3u.dev
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/live/channel_24_720/chunks.m3u8#skym3u.dev
