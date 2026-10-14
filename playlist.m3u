@@ -195,3 +195,12 @@ https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=156016&extension=ts&play_token=MhsW7VeujU
 #EXTINF:-1,PK| A - SPORTS FHD
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:EE:14:CF&stream=165565&extension=ts&play_token=LxUYDBQ39z
+==Tapash==
+#EXTINF:-1,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1,Jamuna TV
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:-1,Channel 9
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:-1,Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
