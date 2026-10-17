@@ -21,31 +21,6 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Entertainment",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
-===OTV===
-#EXTINF:-1 tvg-logo="img/channels/CHANNEL 24.png" group-title="Bangla Channel",CHANNEL.24.HD
-http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/SOMOY TV.png" group-title="Bangla Channel",SHOMOY TV HD
-http://198.195.239.50:8095/somoyTv/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/SOMOY TV.png" group-title="Bangla Channel",SOMOY.TV.HD
-http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/images.png" group-title="Bangla Channel",EAKHON.TV.HD
-http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/JAMUNA TV.png" group-title="Bangla Channel",JAMUNA.TV
-http://198.195.239.50:8095/JAMUNA.TV/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/INDEPENDENT TV.png" group-title="Bangla Channel",INDEPENDENT.TV
-http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/EKATTOR_TV.png" group-title="Bangla Channel",EKATTOR.TV.HD
-http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/ATN BANGLA.png" group-title="Bangla Channel",ATN.BANGLA.HD
-http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/NAGORIK.png" group-title="Bangla Channel",NAGORIK.TV.HD
-http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="Sports Channel",T-SPORTS-HD
-http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-logo="img/channels/CHANNEL I.png" group-title="Bangla Channel",CHANNEL.I.HD
-http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8#M3U_World_4K
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="Bangla Channel",bd-loc: Ekushey TV
-http://mxonlive.xyz/live/xap/245937.m3u8?e=1791197823&token=15472a1b44808be6c478a62df0548a36f069016a1b9bf88302b9d440b5a6866c
 ===SKY M3U===
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
