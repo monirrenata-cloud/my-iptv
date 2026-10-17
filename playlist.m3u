@@ -187,39 +187,39 @@ https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/live/channel_24_720/chunks.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8#skym3u.dev
 ==Filex==
-Sony Max HD
+#EXTINF:-1,Sony Max HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/33.ts
-Sony Max HD (Movies)
+#EXTINF:-1,Sony Max HD (Movies)
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/911316.ts
-Sony Max 4K
+#EXTINF:-1,Sony Max 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275045.ts
-Sony Pix HD
+#EXTINF:-1,Sony Pix HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/75.ts
-Sony Pix HD (Movies)
+#EXTINF:-1,Sony Pix HD (Movies)
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/911301.ts
-Sony Pix 4K
+#EXTINF:-1,Sony Pix 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275048.ts
-Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/37.ts
-Zee Cinema HD (Movies)
+#EXTINF:-1,Zee Cinema HD (Movies)
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/911313.ts
-Zee Cinema 4K
+#EXTINF:-1,Zee Cinema 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275058.ts
-& Pictures HD
+#EXTINF:-1,& Pictures HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/35.ts
-& Pictures HD (Movies)
+#EXTINF:-1,& Pictures HD (Movies)
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/911318.ts
-& Pictures 4K
+#EXTINF:-1,& Pictures 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275042.ts
-Star Movies HD
-http://filex.me:8080/live/03098001921RDB/03098001921/52223.ts
-Star Movies 4K
+#EXTINF:-1,Star Movies HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/52223.ts
+#EXTINF:-1,Star Movies 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275053.ts
-Movies Now HD
+#EXTINF:-1,Movies Now HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/113.ts
-MN+ / MN Plus 4K
+#EXTINF:-1,MN Plus 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275057.ts
-MNX 4K
+#EXTINF:-1,MNX 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/530420.ts
-MNX HD 4K
+#EXTINF:-1,MNX HD 4K
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/530421.ts
