@@ -19,8 +19,6 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Entertainment",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Entertainment",ATN Bangla
-https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 ===SKY M3U===
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Bangla Channel"provider="skym3u.dev",Channel 1
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#skym3u.dev
